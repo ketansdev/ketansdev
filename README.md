@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋, I'm Ketan!  
+A passionate frontend developer who loves creating clean and interactive web applications.  
+Always learning new technologies and building cool projects! 🚀
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
