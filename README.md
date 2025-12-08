@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **ketansdev/ketansdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋, I'm Ketan!  
+## Hi there 👋, I'm Ketan!  
 A passionate frontend developer who loves creating clean and interactive web applications.  
 Always learning new technologies and building cool projects! 🚀
 
