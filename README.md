@@ -18,5 +18,7 @@ Hi there 👋, I'm Ketan!
 A passionate frontend developer who loves creating clean and interactive web applications.  
 Always learning new technologies and building cool projects! 🚀
 
+**My Skill Sets**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
