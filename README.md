@@ -9,26 +9,26 @@ Always learning new technologies and building cool projects! 🚀
 
 ### 💻 Frontend
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: flex; gap: 30px;">
 
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/>
-    <br><b>HTML</b>
+    <b>HTML</b>
   </div>
 
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>
-    <br><b>CSS</b>
+    <b>CSS</b>
   </div>
 
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/>
-    <br><b>JavaScript</b>
+    <b>JavaScript</b>
   </div>
 
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/>
-    <br><b>React</b>
+    <b>React</b>
   </div>
 
 </div>
