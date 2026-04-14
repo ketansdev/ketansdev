@@ -3,7 +3,6 @@
 A passionate frontend developer who loves creating clean and interactive web applications.
 Always learning new technologies and building cool projects! 🚀
 
----
 
 ## 🚀 Skills
 
