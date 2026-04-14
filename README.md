@@ -16,7 +16,6 @@ Always learning new technologies and building cool projects! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
 </div>
 
----
 
 ### ⚙️ Backend
 
@@ -24,7 +23,6 @@ Always learning new technologies and building cool projects! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
 </div>
 
----
 
 ### 🔧 Tools & Version Control
 
@@ -37,19 +35,16 @@ Always learning new technologies and building cool projects! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36"/>
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketansdev\&show_icons=true\&theme=tokyonight)
 
----
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ketansdev\&theme=tokyonight)
 
----
 
 ## 📌 Featured Projects
 
@@ -57,13 +52,10 @@ Always learning new technologies and building cool projects! 🚀
 * 🔹 GitHub Profile Checker – Fetch and display GitHub user data
 
 
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn (add your link)
 * 📧 Email (add your email)
 
----
 
 ⭐️ From https://github.com/ketansdev
